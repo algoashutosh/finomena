@@ -1,8 +1,4 @@
-Finomena
-********
 
-Full Stack Game - Read Me!
-**************************
 
 Game features made :
 
@@ -20,5 +16,3 @@ Installation :
 4. In project file folder install express - $npm install express.
 5. To run : In terminal goto project folder path - $node server.js.
 6. Open browser and connect to address - http://localhost:8000/.
-
-PS - Couldn't add all features due to Exams.
