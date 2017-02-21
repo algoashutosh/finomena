@@ -1,8 +1,4 @@
-Finomena
-********
 
-Full Stack Game - Read Me!
-**************************
 
 Game features made :
 
